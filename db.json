@@ -1,0 +1,133 @@
+{
+  "contacts": [
+    {
+      "fname": "Meenakshi",
+      "lname": "Biju",
+      "email": "Meenakshibiju14@gmail.com",
+      "company": "Makayiram",
+      "job": "Kandanad",
+      "phone": "9847114845",
+      "dob": "14/02/2007",
+      "notes": "hello everyone",
+      "id": 15
+    },
+    {
+      "fname": "kannan",
+      "lname": "",
+      "email": "",
+      "company": "",
+      "job": "",
+      "phone": "9048257445",
+      "dob": "",
+      "notes": "",
+      "id": 16
+    },
+    {
+      "fname": "biju",
+      "lname": "kp",
+      "email": "",
+      "company": "",
+      "job": "",
+      "phone": "7907554875",
+      "dob": "",
+      "notes": "",
+      "id": 17
+    },
+    {
+      "fname": "smitha",
+      "lname": "biju",
+      "email": "",
+      "company": "",
+      "job": "",
+      "phone": "8078802136",
+      "dob": "",
+      "notes": "",
+      "id": 18
+    }
+  ],
+  "favourite": [
+    {
+      "fname": "john",
+      "lname": "doe",
+      "email": "",
+      "company": "",
+      "job": "",
+      "phone": "726625526662",
+      "dob": "",
+      "notes": "",
+      "id": 1
+    },
+    {
+      "fname": "nancy",
+      "lname": "wheeler",
+      "email": "",
+      "company": "",
+      "job": "",
+      "phone": "3838625527728",
+      "dob": "",
+      "notes": "",
+      "id": 2
+    },
+    {
+      "fname": "chrissy",
+      "lname": "",
+      "email": "",
+      "company": "",
+      "job": "",
+      "phone": "26737838929",
+      "dob": "",
+      "notes": "",
+      "id": 3
+    },
+    {
+      "fname": "john ",
+      "lname": "doe",
+      "email": "",
+      "company": "",
+      "job": "",
+      "phone": "46892902223",
+      "dob": "",
+      "notes": "",
+      "id": 4
+    },
+    {
+      "fname": "john",
+      "lname": "doe",
+      "email": "",
+      "company": "",
+      "job": "",
+      "phone": "726625526662",
+      "dob": "",
+      "notes": "",
+      "id": 5
+    },
+    {
+      "fname": "kit harrignton",
+      "lname": "",
+      "email": "",
+      "company": "",
+      "job": "",
+      "phone": "26737838922",
+      "dob": "",
+      "notes": "",
+      "id": 6
+    },
+    {
+      "fname": "Kannan",
+      "lname": "kb",
+      "email": "",
+      "company": "",
+      "job": "",
+      "phone": "9847114845",
+      "dob": "",
+      "notes": "",
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    }
+  ]
+}
